@@ -1,4 +1,4 @@
-## # 👋 Hi, I'm Ajsal
+## 👋 Hi, I'm Ajsal
 
 ### 🎓 Computer Science Engineering Graduate | 📊 Data Science Enthusiast | 💻 Developer
 
